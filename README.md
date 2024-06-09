@@ -21,3 +21,10 @@ User Interaction:
 
 A continuous loop offering a menu-driven interface for performing various operations on the product.
 Easy navigation and execution of tasks such as setting product information, viewing details, depositing, and withdrawing quantities.
+
+
+------------------------------------------------------- YS ----------------------------------------------------------------------
+
+
+
+![image](https://github.com/yo-salah1/Market-Management/assets/117237016/2b470155-5ef6-4ef8-9f81-157526593955)
