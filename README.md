@@ -1,17 +1,17 @@
 # Market-Management
-Overview
+# Overview
 This C++ program is designed to manage and track various attributes of products within a market. The Market class encapsulates product details such as ID, name, expiration date, price, quantity, and profit, providing functionalities to manipulate and retrieve this data effectively.
 
-Key Features
-Initialization:
+# Key Features
+ # Initialization:
 
 Default Constructor: Initializes a product with preset values.
 Parameterized Constructors: Allow initialization with specific values, providing flexibility in product setup.
-Attribute Manipulation:
+ # Attribute Manipulation:
 
 Set and get methods for each product attribute (ID, Name, Expired Date, Price, Quantity, Profit).
 Dynamic update of product attributes through user input.
-Operations:
+ # Operations:
 
 Deposit: Increase the quantity of a product.
 Withdraw: Decrease the quantity of a product, with checks to prevent overdraw.
